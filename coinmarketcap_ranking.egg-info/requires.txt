@@ -1,0 +1,4 @@
+coinmarketcap
+
+[test]
+tox
